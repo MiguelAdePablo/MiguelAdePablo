@@ -1,4 +1,5 @@
-# Hi there 👋 
+#                
+# Hi there 👋           
 
 This repository acts as the main entry point to all my GitHub projects. From here you can easily navigate to the index repositories organized by category.
 
@@ -19,8 +20,11 @@ The goal is to keep a clear and scalable structure, where each category groups r
   - Each index repository contains links and descriptions of the projects belonging to that category.
   - This repository does not contain code, only documentation and links.
   - The structure may evolve with new categories in the future.
-
-
+    
+         ____                 
+        ||__||     	║ ╔═╗ ╚═╝ ╔═╗ ╚═╝ ║           
+        [ -=.]`)   	║ ╚═╝ ╔═╗ ╚═╝ ╔═╗ ║           
+        ====== 0                 	Coding at night.
 
 <!--
 **MiguelAdePablo/MiguelAdePablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
